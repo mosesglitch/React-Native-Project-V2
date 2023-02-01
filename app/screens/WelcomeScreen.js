@@ -17,7 +17,6 @@ function WelcomeScreen(props) {
 const styles = StyleSheet.create({
   background: {
     flex: 1,
-    alignItems: "center",
     justifyContent: "flex-end",
   },
   loginButton: {
